@@ -1,0 +1,10 @@
+Now we are trying to learn data types
+integers
+float
+string
+boolean
+check the type before adding them
+CASTING USING THE STR() AND INT() FLOAT()
+Mathermatical opertions
+fstring in front of the  string we have to write f to make fstring
+print(f"score is {score}")

@@ -1,0 +1,3 @@
+now I am learning loops
+for loops
+now we are using range with for loops

@@ -1,0 +1,4 @@
+Now iam learning about the random module
+what is the module 
+In this iam also learning about the list and how to iteratae like indexing
+In this iam also trying to learn the 2d list

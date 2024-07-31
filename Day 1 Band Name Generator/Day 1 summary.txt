@@ -1,0 +1,10 @@
+Here i learnt about the print and how to print. using \ as esacpe character if you want to include the innerquots 
+after that i learn about the \n to go to new line 
+concatenation using the + symbol
+Indentation error dont give unnecessary spaces
+you can use input for the user to give input from the keyboard
+you can downlaod thonny which is useful to see how computer will execute code by step by step
+you know about the # which is a comment
+now I am learning the vairables 
+mainly the varibles are ued to store the data 
+becareful while creating an varibles because it should be meaningful so that next you can come and refer to that.

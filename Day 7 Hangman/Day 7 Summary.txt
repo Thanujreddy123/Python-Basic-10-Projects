@@ -1,0 +1,7 @@
+This week i learned about how to make project
+
+First I have to focus on the how to generate a words you can take a list of words and use the random to get the random words from them
+Take one list to put the letters __ on it and fills gradually
+check if there are already present in the list
+decrease the lifes if it is not present
+use the logo words 
